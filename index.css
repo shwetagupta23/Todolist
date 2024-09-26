@@ -1,0 +1,16 @@
+.abc{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWauJMUJEw3J4Wx3OCpZ-bhjFfgkdN26WE6_Q730Cnxa-4XFpnlEK-05MlmBe0xPdWL-8&usqp=CAU");
+    background-size: cover;
+    height: 600px;
+    width: 400px;
+    text-align: center;
+    background-position: center;
+    color:white;
+    
+
+
+}
+.container{
+    text-align: center;
+    margin: bold;
+}
